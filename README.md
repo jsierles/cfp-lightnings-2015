@@ -1,17 +1,17 @@
-#ReactEurope Lightning talks Call For Papers#
+# ReactEurope Lightning talks Call For Papers#
 
 A lightning talk contest will happen on the 2nd of July at 5:30pm in front of the whole audience!
 
-#IMPORTANT: this is only for attendees so you will need a ticket to the conference! You can still get one [here](https://eventlama.com/#/events/reacteurope/tickets).
+# IMPORTANT: this is only for attendees so you will need a ticket to the conference! You can still get one [here](https://eventlama.com/#/events/reacteurope/tickets).
 
 What's in a lightning? You will have 5 minutes to demo a project of yours or a project you have contributed to, the only requirement is that it must be open source and related to react.js.
 
 **All** lightnings speakers will get awesome prizes as described [here](https://medium.com/@patcito/our-reacteurope-lightning-talks-contest-prizes-61c786e28864).
 
 
-#How to proceed to submit a lightning#
+# How to proceed to submit a lightning#
 
-##Just fork it##
+## Just fork it##
 
  1. Fork this repository.
  2. Create a directory and name it something such as "my-awesome-lightning" (no spaces).
